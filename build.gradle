@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'com.severalcircles'
-version '1.0-SNAPSHOT'
+version '0.1-PRE_ALPHA'
 
 repositories {
     mavenCentral()
